@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit21_线程池/1.0.0": {
+        "runtime": {
+          "unit21_线程池.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit21_线程池/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
