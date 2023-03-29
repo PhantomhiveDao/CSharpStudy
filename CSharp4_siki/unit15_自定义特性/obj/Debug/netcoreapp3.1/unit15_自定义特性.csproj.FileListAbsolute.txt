@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.exe
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.deps.json
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.dll
+E:\vsc#\CSharp4_siki\unit15_自定义特性\bin\Debug\netcoreapp3.1\unit15_自定义特性.pdb
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.dll
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.pdb
+E:\vsc#\CSharp4_siki\unit15_自定义特性\obj\Debug\netcoreapp3.1\unit15_自定义特性.genruntimeconfig.cache

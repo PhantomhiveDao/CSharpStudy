@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\bin\Debug\netcoreapp3.1\unit015_练习题13.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit016_练习题13\obj\Debug\netcoreapp3.1\unit015_练习题13.genruntimeconfig.cache

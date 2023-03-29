@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\bin\Debug\netcoreapp3.1\unit001_ArryList.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.csproj.AssemblyReference.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_ArryList\obj\Debug\netcoreapp3.1\unit001_ArryList.genruntimeconfig.cache

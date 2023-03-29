@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\bin\Debug\netcoreapp3.1\unit022_Array.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.genruntimeconfig.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit022_Array\obj\Debug\netcoreapp3.1\unit022_Array.csproj.AssemblyReference.cache

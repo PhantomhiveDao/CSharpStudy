@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.exe
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.deps.json
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.dll
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.pdb
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.dll
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.pdb
+E:\vsc#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.genruntimeconfig.cache

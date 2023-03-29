@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.exe
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.deps.json
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.dll
+E:\vsc#\CSharp4_siki\unit011_匿名方法\bin\Debug\netcoreapp3.1\unit011_匿名方法.pdb
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.dll
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.pdb
+E:\vsc#\CSharp4_siki\unit011_匿名方法\obj\Debug\netcoreapp3.1\unit011_匿名方法.genruntimeconfig.cache

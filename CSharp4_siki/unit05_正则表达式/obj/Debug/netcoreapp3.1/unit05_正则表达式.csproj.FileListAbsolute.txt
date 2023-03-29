@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.exe
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.deps.json
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.dll
+E:\vsc#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.pdb
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.dll
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.pdb
+E:\vsc#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.genruntimeconfig.cache

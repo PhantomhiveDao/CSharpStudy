@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit009_抽象类/1.0.0": {
+        "runtime": {
+          "unit009_抽象类.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit009_抽象类/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

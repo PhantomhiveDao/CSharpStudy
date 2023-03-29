@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.exe
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.deps.json
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.dll
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\bin\Debug\netcoreapp3.1\unit035_结构体.pdb
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.dll
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.pdb
+E:\vsc#\cSharpStudyVS2019\unit035_结构体\obj\Debug\netcoreapp3.1\unit035_结构体.genruntimeconfig.cache

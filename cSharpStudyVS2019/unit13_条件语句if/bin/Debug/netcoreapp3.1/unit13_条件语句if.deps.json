@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit13_条件语句if/1.0.0": {
+        "runtime": {
+          "unit13_条件语句if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit13_条件语句if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

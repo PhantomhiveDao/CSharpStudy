@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.exe
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.deps.json
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.dll
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\bin\Debug\netcoreapp3.1\unit016_for循环.pdb
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.dll
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.pdb
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.genruntimeconfig.cache
+E:\vsc#\cSharpStudyVS2019\unit016_for循环\obj\Debug\netcoreapp3.1\unit016_for循环.csproj.AssemblyReference.cache

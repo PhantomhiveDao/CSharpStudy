@@ -1,0 +1,15 @@
+E:\vsc#\CSharp4_siki\01_namespace\bin\Debug\net6.0\unit01_namespace.exe
+E:\vsc#\CSharp4_siki\01_namespace\bin\Debug\net6.0\unit01_namespace.deps.json
+E:\vsc#\CSharp4_siki\01_namespace\bin\Debug\net6.0\unit01_namespace.runtimeconfig.json
+E:\vsc#\CSharp4_siki\01_namespace\bin\Debug\net6.0\unit01_namespace.dll
+E:\vsc#\CSharp4_siki\01_namespace\bin\Debug\net6.0\unit01_namespace.pdb
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.dll
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\refint\unit01_namespace.dll
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.pdb
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\unit01_namespace.genruntimeconfig.cache
+E:\vsc#\CSharp4_siki\01_namespace\obj\Debug\net6.0\ref\unit01_namespace.dll

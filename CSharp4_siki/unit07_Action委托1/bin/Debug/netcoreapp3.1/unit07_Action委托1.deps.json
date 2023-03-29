@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit07_Action委托1/1.0.0": {
+        "runtime": {
+          "unit07_Action委托1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit07_Action委托1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

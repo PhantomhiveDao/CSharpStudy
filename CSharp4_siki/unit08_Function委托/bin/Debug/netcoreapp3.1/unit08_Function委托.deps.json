@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit08_Function委托/1.0.0": {
+        "runtime": {
+          "unit08_Function委托.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit08_Function委托/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

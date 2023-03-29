@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit7_数学运算符/1.0.0": {
+        "runtime": {
+          "unit7_数学运算符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit7_数学运算符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

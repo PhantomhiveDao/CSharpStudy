@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.exe
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.deps.json
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.dll
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\bin\Debug\netcoreapp3.1\unit034_枚举练习.pdb
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.dll
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.pdb
+E:\vsc#\cSharpStudyVS2019\unit034_枚举练习\obj\Debug\netcoreapp3.1\unit034_枚举练习.genruntimeconfig.cache

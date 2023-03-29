@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\bin\Debug\netcoreapp3.1\unit001_前言.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.csproj.AssemblyReference.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit001_前言\obj\Debug\netcoreapp3.1\unit001_前言.genruntimeconfig.cache

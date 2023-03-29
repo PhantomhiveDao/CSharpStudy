@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\bin\Debug\netcoreapp3.1\unit020Mylist列表.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.genruntimeconfig.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit_020Mylist列表\obj\Debug\netcoreapp3.1\unit020Mylist列表.csproj.AssemblyReference.cache

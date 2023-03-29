@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.exe
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.deps.json
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.dll
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\bin\Debug\netcoreapp3.1\unit030_方法与函数.pdb
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.dll
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.pdb
+E:\vsc#\cSharpStudyVS2019\unit030_方法与函数\obj\Debug\netcoreapp3.1\unit030_方法与函数.genruntimeconfig.cache

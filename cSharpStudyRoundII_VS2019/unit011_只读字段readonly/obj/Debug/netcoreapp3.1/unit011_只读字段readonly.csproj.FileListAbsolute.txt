@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\bin\Debug\netcoreapp3.1\unit011_只读字段readonly.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit011_只读字段readonly\obj\Debug\netcoreapp3.1\unit011_只读字段readonly.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit023_字符串获取/1.0.0": {
+        "runtime": {
+          "unit023_字符串获取.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit023_字符串获取/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

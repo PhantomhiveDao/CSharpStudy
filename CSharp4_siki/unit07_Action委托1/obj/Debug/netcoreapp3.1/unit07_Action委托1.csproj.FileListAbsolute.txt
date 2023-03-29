@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.exe
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.deps.json
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.dll
+E:\vsc#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.pdb
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.dll
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.pdb
+E:\vsc#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.genruntimeconfig.cache

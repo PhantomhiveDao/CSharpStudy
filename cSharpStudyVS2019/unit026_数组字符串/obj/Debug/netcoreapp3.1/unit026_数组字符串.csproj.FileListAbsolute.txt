@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.exe
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.deps.json
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.dll
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\bin\Debug\netcoreapp3.1\unit026_数组字符串.pdb
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.dll
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.pdb
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.genruntimeconfig.cache
+E:\vsc#\cSharpStudyVS2019\unit026_数组字符串\obj\Debug\netcoreapp3.1\unit026_数组字符串.csproj.AssemblyReference.cache

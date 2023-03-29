@@ -1,0 +1,15 @@
+E:\vsc#\CSharp4_siki\unit03_string字符串\bin\Debug\net6.0\unit03_string字符串.exe
+E:\vsc#\CSharp4_siki\unit03_string字符串\bin\Debug\net6.0\unit03_string字符串.deps.json
+E:\vsc#\CSharp4_siki\unit03_string字符串\bin\Debug\net6.0\unit03_string字符串.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit03_string字符串\bin\Debug\net6.0\unit03_string字符串.dll
+E:\vsc#\CSharp4_siki\unit03_string字符串\bin\Debug\net6.0\unit03_string字符串.pdb
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.dll
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\refint\unit03_string字符串.dll
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.pdb
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\unit03_string字符串.genruntimeconfig.cache
+E:\vsc#\CSharp4_siki\unit03_string字符串\obj\Debug\net6.0\ref\unit03_string字符串.dll

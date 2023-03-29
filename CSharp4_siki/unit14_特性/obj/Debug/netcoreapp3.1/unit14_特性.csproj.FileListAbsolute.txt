@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.exe
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.deps.json
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.dll
+E:\vsc#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.pdb
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.dll
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.pdb
+E:\vsc#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.genruntimeconfig.cache

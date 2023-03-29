@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.exe
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.deps.json
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.dll
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\bin\Debug\netcoreapp3.1\unit028_标识符判断_practice.pdb
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.csproj.AssemblyReference.cache
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.dll
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.pdb
+E:\vsc#\cSharpStudyVS2019\unit028_标识符判断_practice\obj\Debug\netcoreapp3.1\unit028_标识符判断_practice.genruntimeconfig.cache

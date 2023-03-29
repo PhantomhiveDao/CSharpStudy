@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit034_枚举练习/1.0.0": {
+        "runtime": {
+          "unit034_枚举练习.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit034_枚举练习/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

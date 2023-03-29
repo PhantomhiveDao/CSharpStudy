@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit09_用委托升级冒泡/1.0.0": {
+        "runtime": {
+          "unit09_用委托升级冒泡.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit09_用委托升级冒泡/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

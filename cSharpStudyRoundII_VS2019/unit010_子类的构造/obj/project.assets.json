@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit009_抽象类/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/unit009_抽象类.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/unit009_抽象类.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit009_抽象类/1.0.0": {
+      "type": "project",
+      "path": "../unit009_抽象类/unit009_抽象类.csproj",
+      "msbuildProject": "../unit009_抽象类/unit009_抽象类.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "unit009_抽象类 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mkdz\\.nuget\\packages\\": {},
+    "E:\\VisualStudio\\VsSDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\vsc#\\cSharpStudyRoundII_VS2019\\unit010_子类的构造\\unit010_子类的构造.csproj",
+      "projectName": "unit010_子类的构造",
+      "projectPath": "E:\\vsc#\\cSharpStudyRoundII_VS2019\\unit010_子类的构造\\unit010_子类的构造.csproj",
+      "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
+      "outputPath": "E:\\vsc#\\cSharpStudyRoundII_VS2019\\unit010_子类的构造\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\VisualStudio\\VsSDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mkdz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\vsc#\\cSharpStudyRoundII_VS2019\\unit009_抽象类\\unit009_抽象类.csproj": {
+              "projectPath": "E:\\vsc#\\cSharpStudyRoundII_VS2019\\unit009_抽象类\\unit009_抽象类.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

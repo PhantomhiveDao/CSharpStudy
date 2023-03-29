@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.exe
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.deps.json
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.dll
+E:\vsc#\cSharpStudyVS2019\unit024_数组\bin\Debug\netcoreapp3.1\unit024_数组.pdb
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.dll
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.pdb
+E:\vsc#\cSharpStudyVS2019\unit024_数组\obj\Debug\netcoreapp3.1\unit024_数组.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit032_方法的递归和调用/1.0.0": {
+        "runtime": {
+          "unit032_方法的递归和调用.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit032_方法的递归和调用/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

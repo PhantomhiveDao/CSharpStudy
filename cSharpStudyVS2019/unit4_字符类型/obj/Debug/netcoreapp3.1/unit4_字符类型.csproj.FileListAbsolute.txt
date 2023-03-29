@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.exe
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.deps.json
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.dll
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\bin\Debug\netcoreapp3.1\unit4_字符类型.pdb
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.dll
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.pdb
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.genruntimeconfig.cache
+E:\vsc#\cSharpStudyVS2019\unit4_字符类型\obj\Debug\netcoreapp3.1\unit4_字符类型.csproj.AssemblyReference.cache

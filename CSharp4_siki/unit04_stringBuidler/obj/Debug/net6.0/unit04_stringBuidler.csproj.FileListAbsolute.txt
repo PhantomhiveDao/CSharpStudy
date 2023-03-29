@@ -1,0 +1,15 @@
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\bin\Debug\net6.0\unit04_stringBuidler.exe
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\bin\Debug\net6.0\unit04_stringBuidler.deps.json
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\bin\Debug\net6.0\unit04_stringBuidler.runtimeconfig.json
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\bin\Debug\net6.0\unit04_stringBuidler.dll
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\bin\Debug\net6.0\unit04_stringBuidler.pdb
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.dll
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\refint\unit04_stringBuidler.dll
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.pdb
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\unit04_stringBuidler.genruntimeconfig.cache
+E:\vsc#\CSharp4_siki\unit04_stringBuidler\obj\Debug\net6.0\ref\unit04_stringBuidler.dll

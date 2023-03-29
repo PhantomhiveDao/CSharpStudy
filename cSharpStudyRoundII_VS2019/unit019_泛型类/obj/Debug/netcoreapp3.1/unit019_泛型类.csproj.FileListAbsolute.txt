@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\bin\Debug\netcoreapp3.1\unit019_泛型类.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit019_泛型类\obj\Debug\netcoreapp3.1\unit019_泛型类.genruntimeconfig.cache

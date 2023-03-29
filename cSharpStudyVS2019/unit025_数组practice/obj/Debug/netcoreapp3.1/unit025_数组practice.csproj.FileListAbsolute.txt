@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.exe
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.deps.json
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.dll
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\bin\Debug\netcoreapp3.1\unit025_数组practice.pdb
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.dll
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.pdb
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.genruntimeconfig.cache
+E:\vsc#\cSharpStudyVS2019\unit025_数组practice\obj\Debug\netcoreapp3.1\unit025_数组practice.csproj.AssemblyReference.cache

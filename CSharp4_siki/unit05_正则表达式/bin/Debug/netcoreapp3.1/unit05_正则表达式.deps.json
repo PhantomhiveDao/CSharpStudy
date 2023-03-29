@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit05_正则表达式/1.0.0": {
+        "runtime": {
+          "unit05_正则表达式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit05_正则表达式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

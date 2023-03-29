@@ -1,0 +1,14 @@
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.exe
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.deps.json
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.runtimeconfig.json
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.runtimeconfig.dev.json
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.dll
+E:\vsc#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\02namespace.pdb
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.csproj.AssemblyReference.cache
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.AssemblyInfoInputs.cache
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.AssemblyInfo.cs
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.csproj.CoreCompileInputs.cache
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.dll
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.pdb
+E:\vsc#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\02namespace.genruntimeconfig.cache

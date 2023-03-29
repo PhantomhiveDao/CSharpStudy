@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit20_线程优先级/1.0.0": {
+        "runtime": {
+          "unit20_线程优先级.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit20_线程优先级/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

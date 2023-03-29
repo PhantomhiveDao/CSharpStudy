@@ -1,0 +1,13 @@
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.exe
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.deps.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.runtimeconfig.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\bin\Debug\netcoreapp3.1\unit009_抽象类.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.AssemblyInfo.cs
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.dll
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.pdb
+E:\vsc#\cSharpStudyRoundII_VS2019\unit009_抽象类\obj\Debug\netcoreapp3.1\unit009_抽象类.genruntimeconfig.cache

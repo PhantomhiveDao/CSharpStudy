@@ -1,0 +1,14 @@
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.exe
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.deps.json
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.runtimeconfig.json
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.runtimeconfig.dev.json
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.dll
+E:\vsc#\cSharpStudyVS2019\001test\bin\Debug\netcoreapp3.1\test001programm.pdb
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.AssemblyInfoInputs.cache
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.AssemblyInfo.cs
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.csproj.CoreCompileInputs.cache
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.dll
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.pdb
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.genruntimeconfig.cache
+E:\vsc#\cSharpStudyVS2019\001test\obj\Debug\netcoreapp3.1\test001programm.csproj.AssemblyReference.cache
