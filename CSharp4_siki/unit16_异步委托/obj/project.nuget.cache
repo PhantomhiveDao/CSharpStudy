@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/mfnPwgavVjeZm64l8KGaJq4BpenlHff23DpvZEHInr3LBFy885t3ReCe3xbr7A+FfO5WIz8aIM7KEqNbn7mlA==",
+  "dgSpecHash": "TB5SdbHDeGeNhuL7NmYswuMt//U1Jog2P6Gt+87pGgvEdLZIT+rmmsYiGqrp+127CNUB/m5LktSjWSF3fmnGzA==",
   "success": true,
-  "projectFilePath": "E:\\vsc#\\CSharp4_siki\\unit16_异步委托\\unit16_异步委托.csproj",
+  "projectFilePath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit16_异步委托\\unit16_异步委托.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

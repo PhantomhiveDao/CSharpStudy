@@ -15,6 +15,8 @@ namespace unit06_委托
         delegate string GetAString();
 
         delegate double DoubleOpDelegate(double x);
+
+        //delegate int[] test(int a, double f, int[] arry);
         static void Main(string[] args)
         {
             Inttest test2 = Program.test;
@@ -24,7 +26,7 @@ namespace unit06_委托
             int x = 8878;
             GetAString getit =new GetAString( x.ToString);
             //声明一个委托类型的数组
-            //此处的MathOp是一个类。
+            //此处的MathOp是一个自定义的类。
             DoubleOpDelegate[] operations = { MathOp.MultiplayByTwo, MathOp.Spuare};
             foreach (DoubleOpDelegate op in operations)
             {

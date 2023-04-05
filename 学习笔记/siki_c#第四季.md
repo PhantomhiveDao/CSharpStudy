@@ -37,22 +37,91 @@
 ### 正则表达式-regular Expression/规则表达
 
 1. 检索：通过正则表达式，从字符串中获取我们想要的部分
+
 2. 匹配：判断给定字符串是否符合正则表达式的过滤逻辑。
    1. ）正则表达式表述了一个字符串的书写规则。
+   
+      > 类[Regex](https://learn.microsoft.com/zh-cn/dotnet/api/system.text.regularexpressions.regex?view=net-8.0)表示.NET Framework的正则表达式引擎。 它可用于快速分析大量文本以查找特定的字符模式;提取、编辑、替换或删除文本子字符串;和 ，将提取的字符串添加到集合以生成报表。
+   
+   ``` c#
+    Regex.IsMatch(str1, "");
+               Console.WriteLine(Regex.IsMatch(str1, @"\d*"));
+               //@字符：令特殊字符失效；元字符
+               //\n换行；\t制表符；\d任意一个数字;* 前边的包含零个或多个
+               //\w大小写字母，0-9
+               //\D;\W补集；反义字符。
+               //[]中的任意字符的集合只要字符串中包含则为true ；可以用“-”添加连续的；；[^A-D]：A-D以外的字符
+               Console.WriteLine(Regex.IsMatch(str1, @"si*"));//s si sii siiiii
+               Console.WriteLine(Regex.IsMatch(str1, @"^4"));//^以^之后的字符开头；对开始位置进行匹配；$匹配结尾
+               //判断是否为合法标识符。
+               //替换符合规则的字符
+               Console.WriteLine(Regex.Replace("88382asdf34235", @"[0-9]", "!"));
+               //限制字符长度{n,m}闭区间
+               //择一匹配，匹配左边或者右边 “|”
+               Console.WriteLine(Regex.IsMatch("88382asdf34235", @"\d|a"));
+               //重复的字符串{n}；重复分组（）
+               Console.WriteLine(Regex.IsMatch("abab",@"(ab){2}"));//abab
+               Console.WriteLine(Regex.IsMatch("abab",@"(abc){2}"));//abcabc
+   ```
+   
+   
 
-### 委托
+## 委托
 
 先定义，再使用。
 
 定义的语法：
 
-​	delegate void IntMethodInvoker（int x）；
+``` c#
+	delegate void IntMethodInvoker（int x）;
+```
 
-//定义了一个委托没指向了int
+> [委托](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/reference-types)是一种引用类型，表示对具有特定参数列表和返回类型的方法的引用。
+> 在实例化委托时，你可以将其实例与任何具有兼容签名和返回类型的方法相关联。 
+> 你可以通过委托实例调用方法。
+>
+> **委托**用于将方法作为参数传递给其他方法。 事件处理程序就是通过委托调用的方法。 
+> 你可以创建一个自定义方法，当发生特定事件时，某个类（如 Windows 控件）就可以调用你的方法。 
 
-#### 多播委托
+> 在方法重载的上下文中，方法的签名不包括返回值。 
+> 但在委托的上下文中，签名包括返回值。 
+> 换句话说，**方法**和**委托** *必须具有相同的返回类型*。
+
+>委托具有以下属性：
+>
+>- 委托类似于 C++ 函数指针，但委托完全面向对象，不像 C++ 指针会记住函数，委托会同时封装对象实例和方法。
+>- 委托允许将方法作为参数进行传递。
+>- 委托可用于定义回调方法。
+>- 委托可以链接在一起；例如，可以对一个事件调用多个方法。
+>- 方法不必与委托类型完全匹配。 有关详细信息，请参阅[使用委托中的变体](https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/covariance-contravariance/using-variance-in-delegates)。
+>- 使用 Lambda 表达式可以更简练地编写内联代码块。 Lambda 表达式（在某些上下文中）可编译为委托类型。 若要详细了解 lambda 表达式，请参阅 [lambda 表达式](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)。
+
+//定义了一个委托指向了int
+
+### Action
+
+​	委托的一种类型，返回值为空。只能指向没有返回值的方法
+
+### Function
+
+​	委托的一种类型，需要在标签中声明返回值的类型，例：
+
+``` c#
+ Func<string> fc1 = TestFunction;
+```
+
+
+
+### 多播委托
 
 ​	只能得到调用的最后一个方法的结果。
+
+>     委托也可以包含多个方法，这种委托就叫做多播委托。
+>     可以按照顺序调用多个方法。
+>     多播委托只能得到调用的最后一个方法的结果
+>     一般我们把多播委托的返回类型声明为void
+>     【多播委托】包含一个逐个调用的委托集合
+>     如果通过委托调用的其中一个方法抛出异常，则整个迭代就会停止。
 
 ​	包含了一个委托的集合
 
@@ -66,7 +135,7 @@ Delegate[] dels=ac1.GetInvocationList();//返回的是Delegate类这个类型的
             }
 ```
 
-#### 匿名方法
+### 匿名方法
 
 ​	用的地方很少。
 
@@ -88,6 +157,12 @@ Delegate[] dels=ac1.GetInvocationList();//返回的是Delegate类这个类型的
 ```
 
 ### 事件event
+
+>  	加了event之后委托有了限制：该委托只能+=或者-=；并且只能在内部进行调用。
+>     编译成 创建一个私有的委托示例，和施加在其上的add、remove方法
+>     添加了event之后，只允许用add remove方法来操作，导致不匀速在类的外部被直接触发，只能在类的内部适合的世纪触发。
+>     委托可以在外部被触发。但不建议这么使用
+>     委托常用来表达回调（回调函数）；事件表达外发【消息订阅的一个机制】的接口。
 
 ## LINQ
 

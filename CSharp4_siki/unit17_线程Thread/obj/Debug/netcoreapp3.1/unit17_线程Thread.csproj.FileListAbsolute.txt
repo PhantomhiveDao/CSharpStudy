@@ -12,3 +12,17 @@ E:\vsc#\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Th
 E:\vsc#\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.dll
 E:\vsc#\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.pdb
 E:\vsc#\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.exe
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.deps.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\bin\Debug\netcoreapp3.1\unit17_线程Thread.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit17_线程Thread\obj\Debug\netcoreapp3.1\unit17_线程Thread.genruntimeconfig.cache

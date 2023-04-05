@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLcCSbdByigvBG64Ces/dvLTCgrcUPOTeF99H02uPxH+OnPrLy7lFwgXo15laXPDstSEQxwRqcUOhTa5imlPoA==",
+  "dgSpecHash": "jEiiQ5t3efOW5YwHFa0rBKKXqdSLo+cAQvr1Ju6w2G+HEqqii7wLDxp84WZ+w+QJHVTiap35Eg0Zku6gpGue9A==",
   "success": true,
-  "projectFilePath": "E:\\vsc#\\CSharp4_siki\\unit20_线程优先级\\unit20_线程优先级.csproj",
+  "projectFilePath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit20_线程优先级\\unit20_线程优先级.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
