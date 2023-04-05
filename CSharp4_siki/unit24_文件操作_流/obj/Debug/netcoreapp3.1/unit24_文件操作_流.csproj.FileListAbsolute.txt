@@ -1,0 +1,14 @@
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.exe
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.deps.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\bin\Debug\netcoreapp3.1\unit24_文件操作_流.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit24_文件操作_流\obj\Debug\netcoreapp3.1\unit24_文件操作_流.genruntimeconfig.cache

@@ -23,7 +23,7 @@
       }
       ```
 
-### 字符串和正则表达式
+## 字符串和正则表达式
 
 ```
 1. 字符串类
@@ -34,7 +34,7 @@
   	1. 
 ```
 
-### 正则表达式-regular Expression/规则表达
+## 正则表达式-regular Expression/规则表达
 
 1. 检索：通过正则表达式，从字符串中获取我们想要的部分
 
@@ -300,6 +300,122 @@ namespace unit13_反射
 
 ### 任务
 
+类型：一个类
+
+在命名空间：System.Threading.Tasks，包含了类抽象出了线程功能，在后台使用ThreadPool进行管理。
+
+任务表示应完成某个单元的工作。这个工作可以在单独的线程中运行，也可以以同步方式启动一个任务。
+
+任务也是异步编程中的一种实现方式。
+
+#### 启动任务
+
+- 启动任务的三种方式
+
+- ``` c#
+  using System;
+  using System.Threading;
+  using System.Threading.Tasks;
+  
+  namespace unit26
+  {
+      class Program
+      {
+          //多线程の任务
+          static void Main(string[] args)
+          {
+              //构造工厂实例
+              ///TaskFactory tf = new TaskFactory();
+              ///Task t=tf.StartNew(Test);//为什么没有执行：因为是后台线程，主线程结束之后会同步停止。
+              //Task：用来执行一些小任务
+              //可以通过task对象获得一些相关的信息
+              ///Thread.Sleep(5000);
+              ///通过构造Task对象
+              Task t = new Task(Test);
+              t.Start();
+              Thread.Sleep(5000);
+  
+          }
+          static void Test()
+          {
+              for (int a = 0; a < 1000; a++)
+              {
+                  Console.WriteLine("test方法");
+  
+              }
+          }
+      }
+  }
+  ```
+
+- 
+
+#### 连续任务
+
+定义：如果一个任务t1的执行是依赖于另一个任务t2的，那么就需要在这个任务t2执行完毕后才开始执行t1。这个时候我们可以使用连续任务。
+
+人话版：有了t2才能有t1时，需要先执行完t2再执行t1。可以使用连续任务解决。
+
+``` 
+using System;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace unit26
+{
+    class Program
+    {
+        //多线程の任务
+        static void Main(string[] args)
+        {
+            //构造工厂实例
+            ///TaskFactory tf = new TaskFactory();
+            ///Task t=tf.StartNew(Test);//为什么没有执行：因为是后台线程，主线程结束之后会同步停止。
+            //Task：用来执行一些小任务
+            //可以通过task对象获得一些相关的信息
+            ///Thread.Sleep(5000);
+            ///通过构造Task对象
+            //Task t = new Task(Test);
+            //t.Start();
+            //Thread.Sleep(5000);
+            Task t1 = new Task(Mask1);
+            Task t2=t1.ContinueWith(Mask2);
+            //使用连续任务时，需要在被连续的任务中添加Task变量。为了获得上一个函数传出的值。
+            t1.Start();
+            Thread.Sleep(5000);
+        }
+        static void Test()
+        {
+            for (int a = 0; a < 1000; a++)
+            {
+                Console.WriteLine("test方法");
+
+            }
+        }
+        static void Mask1()
+        {
+            for (int i=0; i < 10; i++)
+            {
+                Console.WriteLine("11111");
+            }
+            Thread.Sleep(2000);
+        }
+        static void Mask2(Task t)
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("22222");
+            }
+            Thread.Sleep(2000);
+
+        }
+    }
+}
+
+```
+
+
+
 ### 同步
 
 在一个线程中执行
@@ -308,9 +424,9 @@ namespace unit13_反射
 
 新开一个线程
 
-### 前台线程 后台线程
+#### 前台线程 后台线程
 
-#### 前台线程：
+##### 前台线程：
 
 > 只要有一个前台线程在运行，应用程序的进程就在运行。
 >
@@ -369,3 +485,112 @@ a.Priority= ThreadPriority.BelowNormal;
 > **不能把入池的线程改为前台线程**
 > **不能给入池的线程设置优先级或名称**
 
+####  资源访问冲突
+
+##### 产生原因：
+	同一个方法中的参数，在多线程中被调用。
+
+- 例：方法中，变量a会自增后输出延迟1秒后归0。在线程A执行时a加1，在线程B执行时a加1；此时可能产生使出2的可能。
+
+##### 解决方案：
+
+  - 使用lock（一种语法）
+
+    - 缺点：当资源多且不同资源使用的情况不同时，当前线程，会降低其他需要调用资源的线程的效率
+
+> **死锁**
+>
+> 产生情景：
+>
+> 当线程们因为调用了不同的发放都要使用资源A和资源B时，为防止资源访问冲突使用了lock后。
+> 发现，由于调用的lock的变量先后顺序不一致，导致需要的资源无法按需取出导致程序无法进行下去。
+>
+> ``` c#
+>  public void ChangeState1()
+>  {lock (_lock1)  {               Console.WriteLine(Thread.CurrentThread.ManagedThreadId+"state1中的lock111");
+>                 lock (_lock2)
+>                 {
+>                 }
+> public void ChangeState2()
+>         {
+>             lock (_lock2)
+>             { Console.WriteLine(Thread.CurrentThread.ManagedThreadId + "state2中的lock222");
+> 
+>                 lock (_lock1)
+>                 {}
+> ```
+>
+> **解决方法**
+>
+> 将使用锁的先后顺序在方法中进行统一。
+
+## 文件操作
+
+### 对文件进行读写
+
+#### FileInfo和DirectoryInfo类
+
+文件信息、文件夹信息
+
+- FileInfo:对文件进行读写修改
+
+- DirectoryInfo
+
+  > 下面的类用于浏览文件系统和执行操作，比如移动，复制和删除文件。 
+  >
+  > System.MarshalByRefObject 这个是.NET类中用于远程操作的基对象类，它允许在应 用程序域之间编组数据。 FileSystemInfo 这是表示任何文件系统对象的基类
+  >
+  >  FileInfo和File 这些类表示文件系统上的文件
+  >
+  >  DirectoryInfo和Directory 表示文件系统上的文件夹 Path 包含用于处理路径名的一些静态方法
+  >
+  >  DriveInfo 它的属性和方法提供了指定驱动器的信息
+
+##### 表示文件和文件夹的.NET类 
+
+我们有两个用于表示文件夹的类和两个用于表示文件的类 Directory（文件夹）和File（文件）类只包含静态方法，不能被实例化。
+如果只对文件夹 或文件执行一个操作，使用这些类就很有效，省去了去实例化.NET类的系统开销。
+ DirectoryInfo类和FileInfo类实现与Directory和File相同的公共方法，他们**拥有一些公共 属性和构造函数**，这些类的成员都不是静态的。
+<u>需要实例化这些类</u>，之后把每个实例与特定 的文件夹或者文件关联起来。
+如果使用同一个对象执行多个操作，使用这些类比较合适，这是因为在构造的时候他们将读取合适文件系统对象的身份验证和其他信息，无论每个对象调 用了多少方法，都不需要再次读取这些信息。
+
+#### Path类-工具类
+
+- 不能去实例化Path类
+- Path类提供了一些静态方法，可以更容易的对路径名执行操作。
+
+### 对文件内容进行读写
+
+#### File类可以读写文件本身。
+
+> 1,File.ReadAllText(FilePath);根据文件路径读取文件中所有的文本 2,File.ReadAllText(FilePath,Encoding);//Encoding可以指定一个编码格式 Encoding.ASCII; 3,File.ReadAllBytes()方法可以打开二进制文件把内容读入一个字节数组 4,File.ReadAllLines() 以行的形式读取文件，一行一个字符串，返回一个字符串的数组 写入文件 我们读取文件有ReadAllText() ReadAllLines()和ReadAllBytes()这几个方法，对应的写入 文件的方法有WriteAllText() WriteAllLines()和WriteAllBytes()
+
+#### 流
+
+##### 定义
+
+数据的一种处理方式
+
+##### 用途
+
+数据小，则可以一次性搬运；数据大，则可以把数据当作谁，接一个水管，一点一点搬运。
+
+###### 流媒体
+
+流是一个用于传输数据的对象，数据可以向两个方向传输：
+如果数据从外部源传输到程序中，这就是读取流；
+如果数据从程序传输到外部源中，这就是写入流
+
+外部源可能是：
+一个文件、网络上的数据、内存区域上、读写到命名管道上
+
+>读写内存使用System.IO.MemorySystem 处理网络数据使用System.Net.Sockets.NetworkStream
+
+读取与写入结束的方法规则：先读取后写入，先关写入后关读取
+
+读取流----写入流
+输入流     输出流
+
+##### 读写文本文件
+
+###### StreamReader和StreamWriter
