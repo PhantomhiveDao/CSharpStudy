@@ -1,0 +1,14 @@
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.exe
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.deps.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\bin\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit27_tcp服务端tcpServer\obj\Debug\netcoreapp3.1\unit27_tcp服务端tcpServer.genruntimeconfig.cache

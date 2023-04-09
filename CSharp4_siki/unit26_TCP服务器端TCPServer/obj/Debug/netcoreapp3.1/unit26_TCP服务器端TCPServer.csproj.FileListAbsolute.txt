@@ -1,0 +1,14 @@
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.exe
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.deps.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\bin\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit26_TCP服务器端TCPServer\obj\Debug\netcoreapp3.1\unit26_TCP服务器端TCPServer.genruntimeconfig.cache

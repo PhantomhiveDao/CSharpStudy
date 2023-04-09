@@ -12,3 +12,17 @@ E:\vsc#\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多�
 E:\vsc#\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.dll
 E:\vsc#\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.pdb
 E:\vsc#\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.exe
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.deps.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\bin\Debug\netcoreapp3.1\unit21_多线程_任务.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.dll
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.pdb
+E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_多线程_任务\obj\Debug\netcoreapp3.1\unit21_多线程_任务.genruntimeconfig.cache

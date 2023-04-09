@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unit27_tcp服务端tcpServer/1.0.0": {
+        "runtime": {
+          "unit27_tcp服务端tcpServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit27_tcp服务端tcpServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
