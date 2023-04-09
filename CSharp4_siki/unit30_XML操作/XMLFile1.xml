@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Skills>
+	<skill>
+		<id>2</id>
+		<name lang="cn">痴情咒</name>
+		<damage>233</damage>
+	</skill>
+	<skill>
+		<id>3</id>
+		<name lang="cn">kuku咒</name>
+		<damage>555</damage>
+	</skill>
+	<skill>
+		<id>4</id>
+		<name lang="cn">66咒</name>
+		<damage>666</damage>
+	</skill>
+</Skills>
