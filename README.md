@@ -3,7 +3,7 @@
 
 cSharpStudyVS2019-第一季相关课程练习
 
-cSharpStudyRoundII_VS2019-第二季相关课程联系
+cSharpStudyRoundII_VS2019-第二季相关课程
 
 csharp_第三季-第三季内容相关练习VS2019
 
