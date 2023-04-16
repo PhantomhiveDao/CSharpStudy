@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit15_自定义特性\\unit15_自定义特性.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit15_自定义特性\\unit15_自定义特性.csproj",
       "projectName": "unit15_自定义特性",
-      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit15_自定义特性\\unit15_自定义特性.csproj",
+      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit15_自定义特性\\unit15_自定义特性.csproj",
       "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit15_自定义特性\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit15_自定义特性\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\VsSDK\\NuGetPackages"

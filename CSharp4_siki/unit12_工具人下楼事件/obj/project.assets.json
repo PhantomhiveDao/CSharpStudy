@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit12_工具人下楼事件\\unit12_工具人下楼事件.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit12_工具人下楼事件\\unit12_工具人下楼事件.csproj",
       "projectName": "unit12_工具人下楼事件",
-      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit12_工具人下楼事件\\unit12_工具人下楼事件.csproj",
+      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit12_工具人下楼事件\\unit12_工具人下楼事件.csproj",
       "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit12_工具人下楼事件\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit12_工具人下楼事件\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\VsSDK\\NuGetPackages"

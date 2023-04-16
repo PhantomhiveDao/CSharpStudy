@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit21_多线程_任务\\unit21_多线程_任务.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit21_多线程_任务\\unit21_多线程_任务.csproj",
       "projectName": "unit21_多线程_任务",
-      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit21_多线程_任务\\unit21_多线程_任务.csproj",
+      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit21_多线程_任务\\unit21_多线程_任务.csproj",
       "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit21_多线程_任务\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit21_多线程_任务\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\VsSDK\\NuGetPackages"

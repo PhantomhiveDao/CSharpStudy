@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit17_线程Thread\\unit17_线程Thread.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit17_线程Thread\\unit17_线程Thread.csproj",
       "projectName": "unit17_线程Thread",
-      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit17_线程Thread\\unit17_线程Thread.csproj",
+      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit17_线程Thread\\unit17_线程Thread.csproj",
       "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit17_线程Thread\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit17_线程Thread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\VsSDK\\NuGetPackages"

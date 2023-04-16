@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\unit25_文件操作_文本读取流和写入流.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\unit25_文件操作_文本读取流和写入流.csproj",
       "projectName": "unit25_文件操作_文本读取流和写入流",
-      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\unit25_文件操作_文本读取流和写入流.csproj",
+      "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\unit25_文件操作_文本读取流和写入流.csproj",
       "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit25_文件操作_文本读取流和写入流\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio\\VsSDK\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj": {}
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj": {}
   },
   "projects": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj": {
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj",
+        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj",
         "projectName": "unit09_用委托升级冒泡",
-        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj",
+        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit09_用委托升级冒泡\\unit09_用委托升级冒泡.csproj",
         "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit09_用委托升级冒泡\\obj\\",
+        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit09_用委托升级冒泡\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudio\\VsSDK\\NuGetPackages"

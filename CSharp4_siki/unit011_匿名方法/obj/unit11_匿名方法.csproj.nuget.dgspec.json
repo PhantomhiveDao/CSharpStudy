@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj": {}
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj": {}
   },
   "projects": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj": {
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj",
+        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj",
         "projectName": "unit11_匿名方法",
-        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj",
+        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit011_匿名方法\\unit11_匿名方法.csproj",
         "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit011_匿名方法\\obj\\",
+        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit011_匿名方法\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudio\\VsSDK\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj": {}
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj": {}
   },
   "projects": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj": {
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
+        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
         "projectName": "unit22_多线程_资源访问冲突问题",
-        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
+        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
         "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\obj\\",
+        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudio\\VsSDK\\NuGetPackages"

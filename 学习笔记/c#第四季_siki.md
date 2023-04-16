@@ -657,3 +657,48 @@ udp：没有严格意义上的服务器和客户端。
 被设计用来传输和存储数据。
 被设计用来结构化、存储以及传输信息。
 
+### xml格式
+
+> <?xml version="1.0" encoding="utf-8" ?> //表格信息
+>
+> <Skills>//一级名称
+> 	<skill>//二级名称
+> 		<id>2</id>//三级名称
+> 		<name lang="cn">痴情咒</name>//名称中能添加子类的属性标签
+> 		<damage>233</damage>
+> 	</skill>
+> 	<skill>
+> 		<id>3</id>
+> 		<name lang="cn">kuku咒</name>
+> 		<damage>555</damage>
+> 	</skill>
+> 	<skill>
+> 		<id>4</id>
+> 		<name lang="cn">66咒</name>
+> 		<damage>666</damage>
+> 	</skill>
+> </Skills>
+
+### xml在c#中的导入
+
+> //用来解析xml
+>             XmlDocument xmlDoc = new XmlDocument();
+>             xmlDoc.Load("XMLFile1.xml");
+>
+> //通过路径加载
+>             //xmlDoc.LoadXml(File.ReadAllText("XMLFile1.xml"));
+
+### 获取数据信息
+
+> //更改xml文件类型
+>             XmlNode root= xmlDoc.ChildNodes[1];//得到根节点
+
+## JSON
+
+### 定义说明
+
+轻量级的文本数据交换格式
+
+独立于语言
+
+具有自我描述性，更易理解

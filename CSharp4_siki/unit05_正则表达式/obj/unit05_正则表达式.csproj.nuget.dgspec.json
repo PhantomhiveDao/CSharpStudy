@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj": {}
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj": {}
   },
   "projects": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj": {
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj",
+        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj",
         "projectName": "unit05_正则表达式",
-        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj",
+        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit05_正则表达式\\unit05_正则表达式.csproj",
         "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit05_正则表达式\\obj\\",
+        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit05_正则表达式\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudio\\VsSDK\\NuGetPackages"

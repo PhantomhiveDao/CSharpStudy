@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj": {}
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj": {}
   },
   "projects": {
-    "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj": {
+    "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj",
+        "projectUniqueName": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj",
         "projectName": "unit18_多线程自定义类传数据",
-        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj",
+        "projectPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit18_多线程自定义类传数据\\unit18_多线程自定义类传数据.csproj",
         "packagesPath": "C:\\Users\\mkdz\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit18_多线程自定义类传数据\\obj\\",
+        "outputPath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit18_多线程自定义类传数据\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudio\\VsSDK\\NuGetPackages"

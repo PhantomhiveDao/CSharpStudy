@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IHbYPQw2fvBZjPEkYUUNzMjddcnzMm6dejLklCV8nSO/4oflgw1ljB97Vf5mOVOuQhDD89ADykw2/wTPrOzG3g==",
+  "dgSpecHash": "/rjSBjYUkc+729KWU4iFspJGAREf8zQk7pZP4CO1flwTrGFDIxlQlNPtxK9JFtxmTYf39e+WafADwDSZor+tQA==",
   "success": true,
-  "projectFilePath": "E:\\GitHubProjects\\StudyC#\\CSharpStudy\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
+  "projectFilePath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit22_多线程_资源访问冲突问题\\unit22_多线程_资源访问冲突问题.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
