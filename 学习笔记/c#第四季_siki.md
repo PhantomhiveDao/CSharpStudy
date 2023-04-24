@@ -703,3 +703,15 @@ udp：没有严格意义上的服务器和客户端。
 
 具有自我描述性，更易理解
 
+### 官网
+
+> https://www.json.org/json-zh.html
+>
+> 官网底部有各种语言对应的json解析器
+>
+> <img src="C:\Users\mkdz\AppData\Roaming\Typora\typora-user-images\image-20230422204356553.png" alt="image-20230422204356553" style="zoom:33%;" />
+
+### 解析
+
+解析json前应该创建与json对应的类
+

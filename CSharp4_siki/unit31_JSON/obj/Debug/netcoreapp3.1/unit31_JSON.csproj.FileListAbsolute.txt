@@ -1,0 +1,17 @@
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\TextFile1.txt
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\unit31_JSON.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.csproj.CopyComplete
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit31_JSON\obj\Debug\netcoreapp3.1\unit31_JSON.genruntimeconfig.cache

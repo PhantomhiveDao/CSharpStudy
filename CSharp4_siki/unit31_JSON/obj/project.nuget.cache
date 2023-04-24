@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFs3lyDTroh5Balzcm94aLE/b3/bl/7Gd9SkfVth7kFe8m2dhyU13DklaCa6jY+rBxSjVrxyD//BvNbzfujEuA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHubProjects\\StudyC#\\CSharp4_siki\\unit31_JSON\\unit31_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkdz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
