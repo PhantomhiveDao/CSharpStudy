@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit13_反射\obj\Debug\netco
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\bin\Debug\netcoreapp3.1\unit13_反射.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit13_反射\obj\Debug\netcoreapp3.1\unit13_反射.genruntimeconfig.cache

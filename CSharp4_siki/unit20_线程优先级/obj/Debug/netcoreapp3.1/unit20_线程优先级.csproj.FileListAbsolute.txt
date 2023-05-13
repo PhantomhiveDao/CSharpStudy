@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit20_线程优先级\obj\De
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\bin\Debug\netcoreapp3.1\unit20_线程优先级.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit20_线程优先级\obj\Debug\netcoreapp3.1\unit20_线程优先级.genruntimeconfig.cache

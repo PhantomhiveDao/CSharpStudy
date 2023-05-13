@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp5_数据结构", "CSharp5_数据结构\CSharp5_数据结构.csproj", "{D71BC6B9-65C2-46CC-9AEF-73A3F69D8DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp5_数据结构", "CSharp5_数据结构\CSharp5_数据结构.csproj", "{D71BC6B9-65C2-46CC-9AEF-73A3F69D8DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit_001线性表", "unit_001线性表\unit_001线性表.csproj", "{F6631446-2706-4DBA-9D00-5A691BE1B07A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D71BC6B9-65C2-46CC-9AEF-73A3F69D8DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71BC6B9-65C2-46CC-9AEF-73A3F69D8DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71BC6B9-65C2-46CC-9AEF-73A3F69D8DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6631446-2706-4DBA-9D00-5A691BE1B07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6631446-2706-4DBA-9D00-5A691BE1B07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6631446-2706-4DBA-9D00-5A691BE1B07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6631446-2706-4DBA-9D00-5A691BE1B07A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

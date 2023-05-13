@@ -12,3 +12,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit28_udp客户端\obj\Debug
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\bin\Debug\netcoreapp3.1\unit28_udp客户端.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit28_udp客户端\obj\Debug\netcoreapp3.1\unit28_udp客户端.genruntimeconfig.cache

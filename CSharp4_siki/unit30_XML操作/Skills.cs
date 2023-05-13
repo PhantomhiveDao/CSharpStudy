@@ -4,8 +4,10 @@ using System.Text;
 
 namespace unit30_XML操作
 {
+    
     class Skills
     {
+        //成员变量
         public int ID { get; set; }
         public string  Name { get; set; }
         public string Language { get; set; }

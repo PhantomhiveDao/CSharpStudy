@@ -12,3 +12,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit29_udp服务端\obj\Debug
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\bin\Debug\netcoreapp3.1\unit29_udp服务端.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit29_udp服务端\obj\Debug\netcoreapp3.1\unit29_udp服务端.genruntimeconfig.cache

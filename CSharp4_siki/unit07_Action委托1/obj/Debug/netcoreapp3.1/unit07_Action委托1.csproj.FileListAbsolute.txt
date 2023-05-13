@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit07_Action委托1\obj\Debu
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\bin\Debug\netcoreapp3.1\unit07_Action委托1.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit07_Action委托1\obj\Debug\netcoreapp3.1\unit07_Action委托1.genruntimeconfig.cache

@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit10_多播委托\obj\Debug
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\bin\Debug\netcoreapp3.1\unit10_多播委托.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit10_多播委托\obj\Debug\netcoreapp3.1\unit10_多播委托.genruntimeconfig.cache

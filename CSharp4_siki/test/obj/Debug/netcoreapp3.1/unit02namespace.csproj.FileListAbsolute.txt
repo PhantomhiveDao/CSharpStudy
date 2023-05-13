@@ -12,3 +12,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\test\obj\Debug\netcoreapp3.1\
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\bin\Debug\netcoreapp3.1\unit02namespace.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\test\obj\Debug\netcoreapp3.1\unit02namespace.genruntimeconfig.cache

@@ -12,3 +12,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit25_文件操作_文本读
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\bin\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit25_文件操作_文本读取流和写入流\obj\Debug\netcoreapp3.1\unit25_文件操作_文本读取流和写入流.genruntimeconfig.cache

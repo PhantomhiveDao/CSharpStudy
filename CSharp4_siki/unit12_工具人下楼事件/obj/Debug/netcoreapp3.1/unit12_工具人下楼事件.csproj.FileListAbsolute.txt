@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit12_工具人下楼事件\
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\bin\Debug\netcoreapp3.1\unit12_工具人下楼事件.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit12_工具人下楼事件\obj\Debug\netcoreapp3.1\unit12_工具人下楼事件.genruntimeconfig.cache

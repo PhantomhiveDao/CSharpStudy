@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit14_特性\obj\Debug\netco
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\bin\Debug\netcoreapp3.1\unit14_特性.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit14_特性\obj\Debug\netcoreapp3.1\unit14_特性.genruntimeconfig.cache

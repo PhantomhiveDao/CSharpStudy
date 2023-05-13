@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit05_正则表达式\obj\De
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\bin\Debug\netcoreapp3.1\unit05_正则表达式.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit05_正则表达式\obj\Debug\netcoreapp3.1\unit05_正则表达式.genruntimeconfig.cache

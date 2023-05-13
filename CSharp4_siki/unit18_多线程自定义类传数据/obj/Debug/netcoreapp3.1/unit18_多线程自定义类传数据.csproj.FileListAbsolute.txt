@@ -26,3 +26,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit18_多线程自定义类�
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\bin\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit18_多线程自定义类传数据\obj\Debug\netcoreapp3.1\unit18_多线程自定义类传数据.genruntimeconfig.cache

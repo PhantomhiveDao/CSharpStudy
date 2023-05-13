@@ -12,3 +12,17 @@ E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_线程池\obj\Debug\ne
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.dll
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.pdb
 E:\GitHubProjects\StudyC#\CSharpStudy\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.genruntimeconfig.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.exe
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.deps.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.runtimeconfig.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.runtimeconfig.dev.json
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\bin\Debug\netcoreapp3.1\unit21_线程池.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.csproj.AssemblyReference.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.AssemblyInfoInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.AssemblyInfo.cs
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.dll
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.pdb
+E:\GitHubProjects\StudyC#\CSharp4_siki\unit21_线程池\obj\Debug\netcoreapp3.1\unit21_线程池.genruntimeconfig.cache
